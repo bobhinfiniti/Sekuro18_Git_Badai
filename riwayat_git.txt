@@ -1,0 +1,6 @@
+*   b3ac0f1 feat: komentar 1 dan 2
+|\  
+| * 1728bca feat: komentar versi 1
+* | b37e3a1 feat: komentar versi 2
+|/  
+* 82dbbad inisiasi github
