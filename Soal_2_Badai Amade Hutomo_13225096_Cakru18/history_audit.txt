@@ -1,0 +1,30 @@
+   23  wc -1 system_raw.txt
+   24  wc --help
+   25  wc -l system_raw.txt
+   26  head -n 1260 system_raw.txt | tail -n 10 > recovered_sector.txt
+   27  rm system_raw.txt
+   28  code
+   29  code /recovery_ops
+   30  code .
+   31  sudo ln -s /path/to/vscode/code /usr/local/bin/code
+   32  code .
+   33  sudo apt update
+   34  sudo apt install build-essential
+   35  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+   36  mkdir ~/recovery_ops
+   37  rm recovered_sector.txt
+   38  sudo apt update
+   39  sudo apt install build-essential
+   40  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+   41  mkdir ~/recovery_ops
+   42  cd ~/recovery_ops
+   43  wget https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+   44  head -n 1260 system_raw.txt | tail -n 10 > recovered_sector.txt
+   45  rm system_raw.txt
+   46  code .
+   47  history | tail -n 30 > history_audit.txt
+   48  wget https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+   49  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+   50  rm system_raw.txt
+   51  code .
+   52  history | tail -n 30 > history_audit.txt
